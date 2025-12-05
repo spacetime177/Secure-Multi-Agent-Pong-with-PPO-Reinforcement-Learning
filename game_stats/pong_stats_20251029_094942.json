@@ -1,0 +1,20 @@
+{
+  "total_games": 1,
+  "player1_wins": 1,
+  "player2_wins": 0,
+  "ties": 0,
+  "player1_avg_score": 30.0,
+  "player2_avg_score": 11.0,
+  "player1_best_score": 30.0,
+  "player2_best_score": 11.0,
+  "player1_win_rate": 100.0,
+  "player2_win_rate": 0.0,
+  "games": [
+    {
+      "p1_score": 30,
+      "p2_score": 11,
+      "winner": "P1",
+      "timestamp": "2025-10-29T09:49:42.731830"
+    }
+  ]
+}
